@@ -96,7 +96,6 @@ img{
 .grid1 > div.anuncio{
     grid-column: 1;
     grid-row: 2 / 5;
-    border-top: 10px solid tomato;
     display: block;
 
 }
